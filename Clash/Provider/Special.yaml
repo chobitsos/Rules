@@ -1,7 +1,4 @@
 payload:
-  # > Dler Cloud
-  - DOMAIN-SUFFIX,dler.cloud
-
   # > Apple CDN
   - PROCESS-NAME,storedownloadd
   # - USER-AGENT,com.apple.appstored*
@@ -18,7 +15,6 @@ payload:
   - DOMAIN,swcdn.apple.com
   - DOMAIN,updates-http.cdn-apple.com
   - DOMAIN-SUFFIX,ls.apple.com
-  - DOMAIN-SUFFIX,mzstatic.com
 
   # > Epic
   - DOMAIN-KEYWORD,epicgames
@@ -35,6 +31,9 @@ payload:
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,ss-local
 
+  # > PlayStation
+  - DOMAIN-SUFFIX,dl.playstation.net
+
   # > Steam
   # - USER-AGENT,Steam*
   - DOMAIN,cm.steampowered.com
@@ -50,6 +49,8 @@ payload:
 
   - DOMAIN,dl.steam.clngaa.com
   - DOMAIN,dl.steam.ksyna.com
+
+  - DOMAIN,gstore.val.manlaxy.com
 
   - DOMAIN,st.dl.bscstorage.net
   - DOMAIN,st.dl.eccdnx.com

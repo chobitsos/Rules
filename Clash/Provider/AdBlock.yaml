@@ -175,7 +175,6 @@ payload:
   # > Sohu
   - DOMAIN-SUFFIX,adnet.sohu.com
   - DOMAIN-SUFFIX,aty.sohu.com
-  - DOMAIN-SUFFIX,data.vod.itc.cn
   - DOMAIN-SUFFIX,epro.sogou.com
   - DOMAIN-SUFFIX,go.sohu.com
   - DOMAIN-SUFFIX,golden1.sogou.com
@@ -427,7 +426,6 @@ payload:
   - DOMAIN-SUFFIX,3180555.com
   - DOMAIN-SUFFIX,32414.com
   - DOMAIN-SUFFIX,32666099.com
-  - DOMAIN-SUFFIX,33.autohome.com.cn
   - DOMAIN-SUFFIX,33.pcpop.com
   - DOMAIN-SUFFIX,33544444.com
   - DOMAIN-SUFFIX,336.com
@@ -842,7 +840,6 @@ payload:
   - DOMAIN-SUFFIX,activation.easeus.com
   - DOMAIN-SUFFIX,active.baofeng.com
   - DOMAIN-SUFFIX,activeqq.3g.qq.com
-  - DOMAIN-SUFFIX,activity.app.autohome.com.cn
   - DOMAIN-SUFFIX,activity.serving-sys.com
   - DOMAIN-SUFFIX,activity.tuifish.com
   - DOMAIN-SUFFIX,activity.yuyiya.com
@@ -1262,7 +1259,7 @@ payload:
   - DOMAIN-SUFFIX,adstextview.qq.com
   - DOMAIN-SUFFIX,adstil.indiatimes.com
   - DOMAIN-SUFFIX,ad-stir.com
-  - DOMAIN-SUFFIX,adsmind.ugdtimg.com
+  - DOMAIN-SUFFIX,adsmind.gdtimg.com
   - DOMAIN-SUFFIX,adstream.123.sogoucdn.com
   - DOMAIN-SUFFIX,ads-twitter.com
   - DOMAIN-SUFFIX,ads-v-darwin.hulustream.com
@@ -1397,7 +1394,6 @@ payload:
   - DOMAIN-SUFFIX,akrwi.cn
   - DOMAIN-SUFFIX,akuai.top
   - DOMAIN-SUFFIX,akxsrsdbursfpx.bid
-  - DOMAIN-SUFFIX,al.autohome.com.cn
   - DOMAIN-SUFFIX,alertserver.ushaqi.com
   - DOMAIN-SUFFIX,alipay.dajiadou6.com
   - DOMAIN-SUFFIX,aliqqjd.cn
@@ -1572,7 +1568,6 @@ payload:
   - DOMAIN-SUFFIX,appjiagu.com
   - DOMAIN-SUFFIX,applifier.com
   - DOMAIN-SUFFIX,applog.uc.cn
-  - DOMAIN-SUFFIX,applogapi.autohome.com.cn
   - DOMAIN-SUFFIX,applogios.uc.cn
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,applvn.com
@@ -1952,6 +1947,7 @@ payload:
   - DOMAIN-SUFFIX,btn.onlylady.com
   - DOMAIN-SUFFIX,btn.pchome.net
   - DOMAIN-SUFFIX,btr.domywife.com
+  - DOMAIN-SUFFIX,btrace.qq.com
   - DOMAIN-SUFFIX,bttrack.com
   - DOMAIN-SUFFIX,btyou.com
   - DOMAIN-SUFFIX,bu01.zybang.com
@@ -1983,7 +1979,6 @@ payload:
   - DOMAIN-SUFFIX,c.51y5.net
   - DOMAIN-SUFFIX,c.adbxb.cn
   - DOMAIN-SUFFIX,c.anmeilai.net
-  - DOMAIN-SUFFIX,c.autohome.com.cn
   - DOMAIN-SUFFIX,c.baidu.com
   - DOMAIN-SUFFIX,c.betrad.com
   - DOMAIN-SUFFIX,c.bigmir.net
@@ -2339,7 +2334,6 @@ payload:
   - DOMAIN-SUFFIX,cmsapi.wifi8.com
   - DOMAIN-SUFFIX,cmshow.gtimg.cn
   - DOMAIN-SUFFIX,cmslayue.com
-  - DOMAIN-SUFFIX,cmx.autohome.com.cn
   - DOMAIN-SUFFIX,cn.pub.vpon.com
   - DOMAIN-SUFFIX,cn.tatami-solutions.com
   - DOMAIN-SUFFIX,cnbole.net
@@ -2957,7 +2951,6 @@ payload:
   - DOMAIN-SUFFIX,dsp-click.youdao.com
   - DOMAIN-SUFFIX,dsp-impr.youdao.com
   - DOMAIN-SUFFIX,dsp-impr2.youdao.com
-  - DOMAIN-SUFFIX,dspmnt.autohome.com.cn
   - DOMAIN-SUFFIX,dspmy.ge95.com
   - DOMAIN-SUFFIX,dspserver.ad.cmvideo.cn
   - DOMAIN-SUFFIX,ds-pv.iqu-operation.com
@@ -3762,7 +3755,6 @@ payload:
   - DOMAIN-SUFFIX,h.irs01.com
   - DOMAIN-SUFFIX,h.laojiayoufang.com
   - DOMAIN-SUFFIX,h.msn.com
-  - DOMAIN-SUFFIX,h.pcd.autohome.com.cn
   - DOMAIN-SUFFIX,h.sora.yoyi.com.cn
   - DOMAIN-SUFFIX,h01.hotrank.com.tw
   - DOMAIN-SUFFIX,h1.18sd.cn
@@ -3772,6 +3764,7 @@ payload:
   - DOMAIN-SUFFIX,h5.pk1179.com
   - DOMAIN-SUFFIX,h5.super-dreamers.com
   - DOMAIN-SUFFIX,h5.taihao.cc
+  - DOMAIN-SUFFIX,h5-api.feiersmart.com
   - DOMAIN-SUFFIX,h8.bec.com
   - DOMAIN-SUFFIX,h9377c.com
   - DOMAIN-SUFFIX,haitaoad.nosdn.127.net
@@ -4179,6 +4172,8 @@ payload:
   - DOMAIN-SUFFIX,info.sec.miui.com
   - DOMAIN-SUFFIX,info.stockstar.com
   - DOMAIN-SUFFIX,info.yitsoftware.com
+  - DOMAIN-SUFFIX,info4.video.qq.com
+  - DOMAIN-SUFFIX,info6.video.qq.com
   - DOMAIN-SUFFIX,infocenter.meizu.com
   - DOMAIN-SUFFIX,ingameads.gameloft.com
   - DOMAIN-SUFFIX,ini.litingxin.cn
@@ -4208,6 +4203,7 @@ payload:
   - DOMAIN-SUFFIX,interest.mix.sina.com.cn
   - DOMAIN-SUFFIX,ioc.mmakd.top
   - DOMAIN-SUFFIX,ios.bugly.qq.com
+  - DOMAIN-SUFFIX,ios.video.mpush.qq.com
   - DOMAIN-SUFFIX,ios-dc.51y5.net
   - DOMAIN-SUFFIX,ios-informationplatform.wps.cn
   - DOMAIN-SUFFIX,iosipa.b0.upaiyun.com
@@ -5844,11 +5840,9 @@ payload:
   - DOMAIN-SUFFIX,pc.videoclick.baidu.com
   - DOMAIN-SUFFIX,pcauto.irs01.com
   - DOMAIN-SUFFIX,pcbrowser.dd.qq.com
-  - DOMAIN-SUFFIX,pcd.autohome.com.cn
   - DOMAIN-SUFFIX,pcfg.wps.cn
   - DOMAIN-SUFFIX,pclog.dftoutiao.com
   - DOMAIN-SUFFIX,pclog.suishenyun.net
-  - DOMAIN-SUFFIX,pcmx.autohome.com.cn
   - DOMAIN-SUFFIX,pcmzn.com
   - DOMAIN-SUFFIX,pcsoftwords.dftoutiao.com
   - DOMAIN-SUFFIX,pcxzo.pluto.sogou.com
@@ -6042,7 +6036,6 @@ payload:
   - DOMAIN-SUFFIX,pub.mop.com
   - DOMAIN-SUFFIX,pub1.cope.es
   - DOMAIN-SUFFIX,pubbirdf.com
-  - DOMAIN-SUFFIX,public.app.autohome.com.cn
   - DOMAIN-SUFFIX,public6.com
   - DOMAIN-SUFFIX,publicidad.net
   - DOMAIN-SUFFIX,publicidad.tv
@@ -6061,7 +6054,6 @@ payload:
   - DOMAIN-SUFFIX,push.126.net
   - DOMAIN-SUFFIX,push.5z5zw.com
   - DOMAIN-SUFFIX,push.air-matters.com
-  - DOMAIN-SUFFIX,push.app.autohome.com.cn
   - DOMAIN-SUFFIX,push.com2us.net
   - DOMAIN-SUFFIX,push.feng.com
   - DOMAIN-SUFFIX,push.mobile.kugou.com
@@ -6075,7 +6067,6 @@ payload:
   - DOMAIN-SUFFIX,push-android.myzaker.com
   - DOMAIN-SUFFIX,pushapi.lenovomm.com
   - DOMAIN-SUFFIX,push-dc.51y5.net
-  - DOMAIN-SUFFIX,pv.alert.autohome.com.cn
   - DOMAIN-SUFFIX,pv.anzhi.com
   - DOMAIN-SUFFIX,pv.cheshi.com
   - DOMAIN-SUFFIX,pv.enet.com.cn
@@ -6094,7 +6085,6 @@ payload:
   - DOMAIN-SUFFIX,pvsite.zol.com.cn
   - DOMAIN-SUFFIX,pvstat.html5.qq.com
   - DOMAIN-SUFFIX,pvtest.zol.com.cn
-  - DOMAIN-SUFFIX,pvx.autohome.com.cn
   - DOMAIN-SUFFIX,pwj.biqugezw.com
   - DOMAIN-SUFFIX,px.adhigh.net
   - DOMAIN-SUFFIX,px.media-serving.com
@@ -6244,11 +6234,9 @@ payload:
   - DOMAIN-SUFFIX,rcv.union-wifi.com
   - DOMAIN-SUFFIX,rcyy3.kaopuwangjz.com
   - DOMAIN-SUFFIX,rd.ane.yahoo.co.jp
-  - DOMAIN-SUFFIX,rd.autohome.com.cn
   - DOMAIN-SUFFIX,rd.e.sogou.com
   - DOMAIN-SUFFIX,rdiqt.cn
   - DOMAIN-SUFFIX,rdtuijian.com
-  - DOMAIN-SUFFIX,rdx.autohome.com.cn
   - DOMAIN-SUFFIX,re.m.taobao.com
   - DOMAIN-SUFFIX,re.taobao.com
   - DOMAIN-SUFFIX,re.taotaosou.com
@@ -6618,6 +6606,7 @@ payload:
   - DOMAIN-SUFFIX,setting.snswin.qq.com
   - DOMAIN-SUFFIX,settings.crashlytics.com
   - DOMAIN-SUFFIX,sezvc.com
+  - DOMAIN-SUFFIX,sf3-fe-tos.pglstatp-toutiao.com
   - DOMAIN-SUFFIX,sfloushi.com
   - DOMAIN-SUFFIX,sg536.cn
   - DOMAIN-SUFFIX,sgbfjs.info
@@ -7673,7 +7662,6 @@ payload:
   - DOMAIN-SUFFIX,wtpn.twenga.co.uk
   - DOMAIN-SUFFIX,wtpn.twenga.de
   - DOMAIN-SUFFIX,wtrace.cmgame.com
-  - DOMAIN-SUFFIX,wtradv.market.xiaomi.com
   - DOMAIN-SUFFIX,wu65.com
   - DOMAIN-SUFFIX,wudang05.com
   - DOMAIN-SUFFIX,wuliao.epro.sogou.com
@@ -8224,10 +8212,6 @@ payload:
   # - URL-REGEX,https:\/\/app\.bilibili\.com\/x\/v2\/search\/(defaultword|hot|recommend|resource)
   # - URL-REGEX,https:\/\/app\.bilibili\.com\/x\/v2\/rank\.*rid=(168|5)
   # - URL-REGEX,https:\/\/api\.bilibili\.com\/pgc\/season\/rank\/cn
-
-  # > OpenAI
-  - DOMAIN,o33249.ingest.sentry.io
-  - DOMAIN,openaicom.imgix.net
 
   # > Didi
   # - URL-REGEX,https:\/\/img-ys011\.didistatic\.com\/static\/ad_oss\/image-\d{4}-\d{4}\/

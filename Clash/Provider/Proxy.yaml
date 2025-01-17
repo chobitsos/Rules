@@ -26,6 +26,11 @@ payload:
   - DOMAIN-SUFFIX,wr.pvp.net
   - DOMAIN-SUFFIX,riotgames.com
 
+  # > Sony
+  - DOMAIN-SUFFIX,playstation.com
+  - DOMAIN-SUFFIX,playstation.net
+  - DOMAIN-SUFFIX,playstationnetwork.com
+
   # > Spark
   - DOMAIN-SUFFIX,api.amplitude.com
   - DOMAIN-SUFFIX,app.smartmailcloud.com
@@ -34,6 +39,10 @@ payload:
   
   # > Tesla
   - DOMAIN-KEYWORD,tesla
+  
+  # > WAQI
+  - DOMAIN,api.waqi.info
+  - DOMAIN,aqi.aqicn.org
 
   # > Zooba
   # - USER-AGENT,battleroyale*
@@ -168,6 +177,7 @@ payload:
   - DOMAIN-SUFFIX,disq.us
   - DOMAIN-SUFFIX,disqus.com
   - DOMAIN-SUFFIX,disquscdn.com
+  - DOMAIN-SUFFIX,dler.io
   - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,dnsimple.com
   - DOMAIN-SUFFIX,docker.com
@@ -196,6 +206,7 @@ payload:
   - DOMAIN-SUFFIX,feedburner.com
   - DOMAIN-SUFFIX,feedly.com
   - DOMAIN-SUFFIX,feedsportal.com
+  - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,fiftythree.com
   - DOMAIN-SUFFIX,firebaseio.com
   - DOMAIN-SUFFIX,flexibits.com
@@ -224,6 +235,8 @@ payload:
   - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,gitbook.com
+  - DOMAIN-SUFFIX,gitlab.com
+  - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,globalsign.com
   - DOMAIN-SUFFIX,gmocloud.com
   - DOMAIN-SUFFIX,gmodules.com
@@ -392,6 +405,7 @@ payload:
   - DOMAIN-SUFFIX,recaptcha.net
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,redditstatic.com
   - DOMAIN-SUFFIX,reuters.com
   - DOMAIN-SUFFIX,rfi.fr
   - DOMAIN-SUFFIX,rileyguide.com
@@ -478,6 +492,7 @@ payload:
   - DOMAIN-SUFFIX,tokyocn.com
   - DOMAIN-SUFFIX,tomshardware.com
   - DOMAIN-SUFFIX,torcn.com
+  - DOMAIN-SUFFIX,torrentmac.net
   - DOMAIN-SUFFIX,torrentprivacy.com
   - DOMAIN-SUFFIX,torrentproject.se
   - DOMAIN-SUFFIX,torrentz.eu
@@ -591,6 +606,7 @@ payload:
   - DOMAIN-SUFFIX,wsj.com
   - DOMAIN-SUFFIX,wsj.net
   - DOMAIN-SUFFIX,wwitv.com
+  - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,xanga.com
   - DOMAIN-SUFFIX,xclient.info
   - DOMAIN-SUFFIX,xda-developers.com
@@ -602,6 +618,7 @@ payload:
   - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,yahoo.com
   - DOMAIN-SUFFIX,yahooapis.com
+  - DOMAIN-SUFFIX,yandex.com
   - DOMAIN-SUFFIX,yasni.co.uk
   - DOMAIN-SUFFIX,yastatic.net
   - DOMAIN-SUFFIX,ycombinator.com
@@ -614,9 +631,7 @@ payload:
   - DOMAIN-SUFFIX,yorkbbs.ca
   - DOMAIN-SUFFIX,youmaker.com
   - DOMAIN-SUFFIX,yourlisten.com
-  - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-SUFFIX,yoyo.org
-  - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,zacebook.com
   - DOMAIN-SUFFIX,zalmos.com
   - DOMAIN-SUFFIX,zaobao.com.sg
@@ -669,9 +684,11 @@ payload:
   - DOMAIN-SUFFIX,netmarble.com
   - DOMAIN-SUFFIX,nianticlabs.com
   - DOMAIN-SUFFIX,pinimg.com
+  - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,pubnub.com
   - DOMAIN-SUFFIX,scdn.co
   - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,tenor.com
   - DOMAIN-SUFFIX,tensorflow.org
   - DOMAIN-SUFFIX,toggleable.com
   - DOMAIN-SUFFIX,torproject.org
